@@ -1,3 +1,24 @@
+
+nav{
+
+    text-align: right;
+
+
+    
+}
+
+nav a{
+
+    text-decoration: none;
+    margin-left: 10px;
+    margin-left: 20px;
+    color: #000eab;
+    font-size: 15px;
+    font-family: sans-serif;
+
+}
+
+
 .logo1 {
     width: 187px;
     height: 125px;
